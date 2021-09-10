@@ -50,14 +50,14 @@ Between 20-50GB will be ok. But you know, larger is better.
 
 The hardware setting, I personally recommend set it in this way, it can be occupied less resources of your computer and work well.
 
-Memory
 ![image](https://user-images.githubusercontent.com/78173335/132924361-d100ede4-5db2-4510-9817-0298cf757bd3.png)
+Memory
 
-CPU
 ![image](https://user-images.githubusercontent.com/78173335/132924406-a9a401fc-9ade-4f0b-a9a1-8e61b35f5703.png)
+CPU
 
-Internet adapter
 ![image](https://user-images.githubusercontent.com/78173335/132924490-78ad1a41-cebc-4aa1-be12-cd0965e4e52b.png)
+Internet adapter
 
 Others you can just use default setting will be good.
 
@@ -69,6 +69,6 @@ When you seeing this(By the way the username and background might be different, 
 ![image](https://user-images.githubusercontent.com/78173335/132924708-ec567e40-d93c-411d-9d3a-2b9669dc14f3.png)
 ![image](https://user-images.githubusercontent.com/78173335/132924799-4c8a8351-214c-4fc9-9fcc-83ab9fb745d9.png)
 
-Congratulation!!! You successfully install the Linux enviorment in your VM. You can start to download application and using it. 
+Congratulation!!! You are successfully install the Linux enviorment in your VM. You may start to download application and using it. 
 
 Have fun :)
